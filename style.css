@@ -129,10 +129,10 @@ body{
    margin-bottom: 500px;
     
 }
-/* #starry{
-    background: url(./background-3261090_960_720.webp);
-    background-size: cover;
-} */
+#starry{
+    background: url(https://www.desktopbackground.org/download/1920x1080/2012/10/22/471786_professional-background-images-for-websites-all-wallpapers-new_1920x1237_h.jpg);
+    background-size: contain;
+}
 @media screen and (min-width: 768px){
     .toggle-button{
         display: none;
@@ -173,6 +173,10 @@ margin-top: 100px;}
 
 
 }
+#card{
+    position: relative;
+
+}
 
 
 #education{font-size: 75px;
@@ -206,6 +210,17 @@ font-weight: normal;
 font-style: italic;
 text-align: center;}
 
+#skills{
+    font-size: 75px;
+    font-style: oblique;
+    font-weight: normal;
+    font-family: sans-serif;
+    font-variant:normal;
+    text-align: center;
+
+
+}
+
   #coding{
       text-align: center;
       font-size: 40px;
@@ -225,7 +240,12 @@ font-style: normal;}
 
 #resume{
     font-size: 75px;
-    
+    font-style: oblique;
+    font-weight: normal;
+    font-family: sans-serif;
+    font-variant:normal;
+    text-align: center;
+
 }
 
 #chick{font-size: 50px;
@@ -267,6 +287,13 @@ font-style: normal;}
     font-weight: normal;
     font-family: sans-serif;
     font-variant:normal
+}
+#projects{font-size: 75px;
+    font-style: oblique;
+    font-weight: normal;
+    font-family: sans-serif;
+    font-variant:normal;
+    text-align: center
 }
 
 
