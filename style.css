@@ -109,12 +109,8 @@ body{
     
 }
 
-#stars{
-background-image: url(./background-3261090_960_720.webp);
-background: size 10000000px;
-background-repeat: repeat;
 
-}
+
 
 .site-banner .banner-area .author .author-img{
     width: 250px;
@@ -133,10 +129,10 @@ background-repeat: repeat;
    margin-bottom: 500px;
     
 }
-#starry{
+/* #starry{
     background: url(./background-3261090_960_720.webp);
     background-size: cover;
-}
+} */
 @media screen and (min-width: 768px){
     .toggle-button{
         display: none;
@@ -166,7 +162,8 @@ position: relative;}
 #about{font-size: 75px;
 font-weight: normal;
 font-style: italic;
-text-align: center;}
+text-align: center;
+margin-top: 100px;}
 
 #amber{font-size: 25px;
     font-style: oblique;
@@ -176,7 +173,7 @@ text-align: center;}
 
 
 }
-#mom{font-size: 20px;}
+
 
 #education{font-size: 75px;
 font-weight: normal;
@@ -226,9 +223,9 @@ font-style: italic;}
 text-align: center;
 font-style: normal;}
 
-#experience{
+#resume{
     font-size: 75px;
-    font-family: ;
+    
 }
 
 #chick{font-size: 50px;
@@ -254,11 +251,23 @@ font-style: normal;}
     font-weight: normal;
     font-family: sans-serif;
     font-variant:normal
-
-
 }
 
+#contact{
+    font-size: 75px;
+    font-style: oblique;
+    font-weight: normal;
+    font-family: sans-serif;
+    font-variant:normal
 
+}
+#phone{
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: normal;
+    font-family: sans-serif;
+    font-variant:normal
+}
 
 
 
