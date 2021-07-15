@@ -119,6 +119,7 @@ body{
     background-size: cover;
     border-radius: 50%;
     position: relative;
+    left: 75px;
     
 
 }
@@ -163,7 +164,7 @@ position: relative;}
 font-weight: normal;
 font-style: italic;
 text-align: center;
-margin-top: 100px;}
+margin-top: 150px;}
 
 #amber{font-size: 25px;
     font-style: oblique;
@@ -182,7 +183,7 @@ margin-top: 100px;}
 #education{font-size: 75px;
 font-weight: normal;
 text-align: center;
-margin-top: 100px;
+margin-top: 150px;
 font-style: italic;}
 
 #experience{
@@ -192,8 +193,7 @@ font-style: italic;}
     font-style: italic;
     text-align: center;
 }
-#btn1{
-font-size: 15px;}
+
 
 
 
@@ -254,8 +254,11 @@ font-style: normal;}
 }
 
 #chick{font-size: 50px;
-font-style: normal;}
-
+    font-style: normal;
+    font-weight: normal;
+    font-family: sans-serif;
+    font-variant:normal
+}
 
 #work{
     font-size: 25px;
@@ -283,7 +286,8 @@ font-style: normal;}
     font-style: oblique;
     font-weight: normal;
     font-family: sans-serif;
-    font-variant:normal
+    font-variant:normal;
+    margin-top: 100px;
 
 }
 #phone{
@@ -298,7 +302,11 @@ font-style: normal;}
     font-weight: normal;
     font-family: sans-serif;
     font-variant:normal;
-    text-align: center
+    text-align: center;
+    margin-top: 100px;
+}
+#mad{
+    margin-left: 230px;
 }
 
 
